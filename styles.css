@@ -68,7 +68,7 @@
     color: white;
 }
 .sect2{
-    border: 1px solid;
+    border: white solid;
     padding: 5px;
     padding-top: 10px;
     width: 86%;
@@ -128,4 +128,48 @@
     position: relative;
     bottom: 150px;
     left: 30px
+}
+.p1{
+    position: relative;
+    bottom: 100px;
+    left: 30px;
+}
+.sect5{
+position: relative;
+left: 30px;
+bottom: 80px;
+}
+.img4{
+    width: 290px;
+    height: 220px;
+    border-radius: 20px;
+}
+#div5{
+    float: right;
+    position: relative;
+    bottom: 266px;
+    left: 100px
+}
+#div4{
+    float: right;
+    position: relative;
+    left: 190px;
+    bottom: 266px;
+
+}
+#div3{
+    float: right;
+    position: relative;
+    right: 670px;
+    bottom: 266px;
+}
+#div2{
+    position: relative;
+    left: 30px;
+    bottom: 70px;
+
+}
+#but5{
+    background-color: green;
+    border-radius: 5px;
 }

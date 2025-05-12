@@ -79,3 +79,37 @@
     left: 40px;
 
 }
+.but3{
+    width: 40px;
+    border-radius: 60%;
+    position: relative;
+    top: 20px;
+    left: 20px;
+    background-color: rgba(128, 202, 177, 0.854);
+}
+#text2{
+    position: relative;
+    left: 70px;
+    bottom: 20px;
+    color: white;
+}
+.but4{
+    position: relative;
+    left: 980px;
+    bottom: 60px;
+    padding: 6px;
+    border-radius: 20px;
+    background-color: blue;
+    color: white;
+}
+.sect3{
+    border: rgb(11, 11, 144) solid;
+    position: relative;
+    bottom: 180px;
+    left: 40px;
+    width: 86%;
+    height: 70px;
+    border-radius: 15px;
+    background-color: rgb(6, 6, 50);
+
+}

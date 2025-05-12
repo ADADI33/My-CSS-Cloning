@@ -113,3 +113,19 @@
     background-color: rgb(6, 6, 50);
 
 }
+.para{
+    color:rgb(6, 6, 50);
+    position: relative;
+    left: 20px;
+    bottom: 170px;
+}
+.img3{
+    width: 230px;
+    height: 300px;
+    border-radius: 20px;
+}
+#sect4{
+    position: relative;
+    bottom: 150px;
+    left: 30px
+}

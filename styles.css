@@ -41,3 +41,41 @@
     font-size: 40px;
     font-family: Georgia, 'Times New Roman', Times, serif;
 }
+.img2{
+    width: 30px;
+    position: relative;
+}
+#text1{
+    position: relative;
+    float: right;
+}
+.min{
+    position: relative;
+    bottom: 18px;
+    right: 67px
+}
+.but2{
+    padding-right: 170px;
+    padding-top: 10px;
+    border-radius: 10px;
+}
+.but1{
+    padding: 15px;
+    border-radius: 30px;
+    position: relative;
+    bottom: 10px;
+    background-color: blue;
+    color: white;
+}
+.sect2{
+    border: 1px solid;
+    padding: 5px;
+    padding-top: 10px;
+    width: 86%;
+    border-radius: 10px;
+    background-color: white;
+    position: relative;
+    bottom: 380px;
+    left: 40px;
+
+}
